@@ -1,3 +1,12 @@
+CREATE TABLE `countries` (
+	country char(2) primary key,
+	name varchar(100),
+	latitute varchar(20),
+	longitute varchar(20),
+	nationality varchar(80)
+);
+
+
 INSERT INTO countries (country, name, latitute, longitute, nationality) VALUES ("AD", "Andorra", "42.546.245", "1.601.554", "Andorran");
 INSERT INTO countries (country, name, latitute, longitute, nationality) VALUES ("AE", "United Arab Emirates", "23.424.076", "53.847.818", "Emirates");
 INSERT INTO countries (country, name, latitute, longitute, nationality) VALUES ("AF", "Afghanistan", "3.393.911", "67.709.953", "Afghan");
