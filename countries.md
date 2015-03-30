@@ -1,5 +1,5 @@
 
-|       Country       |          Name        |       Latitute       |       Longitute      |       Nationality    |
+|       Country       |          Name        |       Latitude       |       Longitude      |       Nationality    |
 |---------------------|----------------------|----------------------|----------------------|----------------------|
 |AD|Andorra|42.546.245|1.601.554|Andorran|
 |AE|United Arab Emirates|23.424.076|53.847.818|Emirates|
