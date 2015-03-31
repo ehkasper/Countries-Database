@@ -7,168 +7,169 @@ CREATE TABLE `countries` (
 );
 
 
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AD", "Andorra", "42.546.245", "1.601.554", "Andorran");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AE", "United Arab Emirates", "23.424.076", "53.847.818", "Emirates");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AF", "Afghanistan", "3.393.911", "67.709.953", "Afghan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AL", "Albania", "41.153.332", "20.168.331", "Albanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AM", "Armenia", "40.069.099", "45.038.189", "Armenian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AO", "Angola", "-11.202.692", "17.873.887", "Angolan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AR", "Argentina", "-38.416.097", "-63.616.672", "Argentinian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AT", "Austria", "47.516.231", "14.550.072", "Austrian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AU", "Australia", "-25.274.398", "133.775.136", "Australian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AZ", "Azerbaijan", "40.143.105", "47.576.927", "Azerbaijani");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BB", "Barbados", "13.193.887", "-59.543.198", "Barbadian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BD", "Bangladesh", "23.684.994", "90.356.331", "Bangladeshi");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BE", "Belgium", "50.503.887", "4.469.936", "Belgian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BG", "Bulgaria", "42.733.883", "2.548.583", "Bulgarian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BH", "Bahrain", "25.930.414", "50.637.772", "Bahraini");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BI", "Burundi", "-3.373.056", "29.918.886", "Burundian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BJ", "Benin", "930.769", "2.315.834", "Beninese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BN", "Brunei", "4.535.277", "114.727.669", "Bruneian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BO", "Bolivia", "-16.290.154", "-63.588.653", "Bolivian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BR", "Brazil", "-14.235.004", "-5.192.528", "Brazilian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BS", "Bahamas", "2.503.428", "-7.739.628", "Bahamian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BT", "Bhutan", "27.514.162", "90.433.601", "Bhutanese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BW", "Botswana", "-22.328.474", "24.684.866", "Botswanan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BY", "Belarus", "53.709.807", "27.953.389", "Belarusian or Belarusan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BZ", "Belize", "17.189.877", "-8.849.765", "Belizean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CA", "Canada", "56.130.366", "-106.346.771", "Canadian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CH", "Switzerland", "46.818.188", "8.227.512", "Swiss");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CL", "Chile", "-35.675.147", "-71.542.969", "Chilean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CM", "Cameroon", "7.369.722", "12.354.722", "Cameroonian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CN", "China", "3.586.166", "104.195.397", "Chinese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CO", "Colombia", "4.570.868", "-74.297.333", "Colombian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CR", "Costa Rica", "9.748.917", "-83.753.428", "Costa Rican");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CU", "Cuba", "21.521.757", "-77.781.167", "Cuban");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CY", "Cyprus", "35.126.413", "33.429.859", "Cypriot");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CZ", "Czech Republic", "49.817.492", "15.472.962", "Czech");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DE", "Germany", "51.165.691", "10.451.526", "German");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DJ", "Djibouti", "11.825.138", "42.590.275", "Djiboutian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DK", "Denmark", "5.626.392", "9.501.785", "Danish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DM", "Dominica", "15.414.999", "-61.370.976", "Dominican");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DO", "Dominican Republic", "18.735.693", "-70.162.651", "Dominican");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DZ", "Algeria", "28.033.886", "1.659.626", "Algerian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("EC", "Ecuador", "-1.831.239", "-78.183.406", "Ecuadorean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("EE", "Estonia", "58.595.272", "25.013.607", "Estonian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("EG", "Egypt", "26.820.553", "30.802.498", "Egyptian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ER", "Eritrea", "15.179.384", "39.782.334", "Eritrean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ES", "Spain", "40.463.667", "-374.922", "Spanish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ET", "Ethiopia", "9.145", "40.489.673", "Ethiopian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("FI", "Finland", "6.192.411", "25.748.151", "Finnish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("FJ", "Fiji", "-16.578.193", "179.414.413", "Fijian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("FR", "France", "46.227.638", "2.213.749", "French");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GA", "Gabon", "-803.689", "11.609.444", "Gabonese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GB", "United Kingdom", "55.378.051", "-3.435.973", "British");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GD", "Grenada", "12.262.776", "-61.604.171", "Grenadian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GE", "Georgia", "42.315.407", "43.356.892", "Georgian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GH", "Ghana", "7.946.527", "-1.023.194", "Ghanaian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GN", "Guinea", "9.945.587", "-9.696.645", "Guinean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GR", "Greece", "39.074.208", "21.824.312", "Greek");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GT", "Guatemala", "15.783.471", "-90.230.759", "Guatemalan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GY", "Guyana", "4.860.416", "-5.893.018", "Guyanese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HN", "Honduras", "15.199.999", "-86.241.905", "Honduran");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HR", "Croatia", "45.1", "15/02/2015", "Croat or Croatian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HT", "Haiti", "18.971.187", "-72.285.215", "Haitian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HU", "Hungary", "47.162.494", "19.503.304", "Hungarian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ID", "Indonesia", "-789.275", "113.921.327", "Indonesian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IE", "Ireland", "5.341.291", "-824.389", "Irish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IN", "India", "20.593.684", "7.896.288", "Indian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IQ", "Iraq", "33.223.191", "43.679.291", "Iraqi");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IR", "Iran", "32.427.908", "53.688.046", "Iranian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IS", "Iceland", "64.963.051", "-19.020.835", "Icelandic");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IT", "Italy", "4.187.194", "1.256.738", "Italian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("JM", "Jamaica", "18.109.581", "-77.297.508", "Jamaican");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("JO", "Jordan", "30.585.164", "36.238.414", "Jordanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("JP", "Japan", "36.204.824", "138.252.924", "Japanese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KE", "Kenya", "-23.559", "37.906.193", "Kenyan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KH", "Cambodia", "12.565.679", "104.990.963", "Cambodian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KP", "North Korea", "40.339.852", "127.510.093", "North Korean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KR", "South Korea", "35.907.757", "127.766.922", "South Korean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KW", "Kuwait", "2.931.166", "47.481.766", "Kuwaiti");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KZ", "Kazakhstan", "48.019.573", "66.923.684", "Kazakh");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LA", "Laos", "1.985.627", "102.495.496", "Laotian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LB", "Lebanon", "33.854.721", "35.862.285", "Lebanese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LI", "Liechtenstein", "47.166", "9.555.373", "-");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LK", "Sri Lanka", "7.873.054", "80.771.797", "Sri Lankan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LR", "Liberia", "6.428.055", "-9.429.499", "Liberian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LT", "Lithuania", "55.169.438", "23.881.275", "Lithuanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LU", "Luxembourg", "49.815.273", "6.129.583", "-");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LV", "Latvia", "56.879.635", "24.603.189", "Latvian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LY", "Libya", "263.351", "17.228.331", "Libyan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MA", "Morocco", "31.791.702", "-709.262", "Moroccan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MC", "Monaco", "43.750.298", "7.412.841", "Monégasque or Monacan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MD", "Moldova", "47.411.631", "28.369.885", "Moldovan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ME", "Montenegro", "42.708.678", "1.937.439", "Montenegrin");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MG", "Madagascar", "-18.766.947", "46.869.107", "Malagasy or Madagascan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ML", "Mali", "17.570.692", "-3.996.166", "Malian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MM", "Myanmar [Burma]", "21.913.965", "95.956.223", "Burmese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MM", "Myanmar [Burma]", "21.913.965", "95.956.223", "-");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MN", "Mongolia", "46.862.496", "103.846.656", "Mongolian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MR", "Mauritania", "2.100.789", "-10.940.835", "Mauritanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MT", "Malta", "35.937.496", "14.375.416", "Maltese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MU", "Mauritius", "-20.348.404", "57.552.152", "Mauritian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MV", "Maldives", "3.202.778", "7.322.068", "Maldivian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MW", "Malawi", "-13.254.308", "34.301.525", "Malawian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MX", "Mexico", "23.634.501", "-102.552.784", "Mexican");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MY", "Malaysia", "4.210.484", "101.975.766", "Malaysian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MZ", "Mozambique", "-18.665.695", "35.529.562", "Mozambican");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NA", "Namibia", "-2.295.764", "1.849.041", "Namibian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NE", "Niger", "17.607.789", "8.081.666", "Nigerien");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NG", "Nigeria", "9.081.999", "8.675.277", "Nigerian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NI", "Nicaragua", "12.865.416", "-85.207.229", "Nicaraguan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NL", "Netherlands", "52.132.633", "5.291.266", "Dutch");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NL", "Netherlands", "52.132.633", "5.291.266", "Dutch");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NO", "Norway", "60.472.024", "8.468.946", "Norwegian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NP", "Nepal", "28.394.857", "84.124.008", "Nepalese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NZ", "New Zealand", "-40.900.557", "174.885.971", "New Zealand");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("OM", "Oman", "21.512.583", "55.923.255", "Omani");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PA", "Panama", "8.537.981", "-80.782.127", "Panamanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PE", "Peru", "-9.189.967", "-75.015.152", "Peruvian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PG", "Papua New Guinea", "-6.314.993", "14.395.555", "Papua New Guinean orGuinean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PK", "Pakistan", "30.375.321", "69.345.116", "Pakistani");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PL", "Poland", "51.919.438", "19.145.136", "Polish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PT", "Portugal", "39.399.872", "-8.224.454", "Portuguese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PY", "Paraguay", "-23.442.503", "-58.443.832", "Paraguayan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("QA", "Qatar", "25.354.826", "51.183.884", "Qatari");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RO", "Romania", "45.943.161", "2.496.676", "Romanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RS", "Serbia", "44.016.521", "21.005.859", "Serb or Serbian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RU", "Russia", "6.152.401", "105.318.756", "Russian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RW", "Rwanda", "-1.940.278", "29.873.888", "Rwandan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SA", "Saudi Arabia", "23.885.942", "45.079.162", "Saudi Arabian or Saudi");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SB", "Solomon Islands", "-964.571", "160.156.194", "-");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SD", "Sudan", "12.862.807", "30.217.636", "Sudanese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SE", "Sweden", "60.128.161", "18.643.501", "Swedish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SG", "Singapore", "1.352.083", "103.819.836", "Singaporean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SI", "Slovenia", "46.151.241", "14.995.463", "Slovene or Slovenian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SK", "Slovakia", "48.669.026", "19.699.024", "Slovak");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SL", "Sierra Leone", "8.460.555", "-11.779.889", "Sierra Leonian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SN", "Senegal", "14.497.401", "-14.452.362", "Senegalese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SO", "Somalia", "5.152.149", "46.199.616", "Somali");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SR", "Suriname", "3.919.305", "-56.027.783", "Surinamese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SV", "El Salvador", "13.794.185", "-8.889.653", "Salvadorean");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SY", "Syria", "34.802.075", "38.996.815", "Syrian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SZ", "Swaziland", "-26.522.503", "31.465.866", "Swazi");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TD", "Chad", "15.454.166", "18.732.207", "Chadian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TG", "Togo", "8.619.543", "824.782", "Togolese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TH", "Thailand", "15.870.032", "100.992.541", "Thai");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TJ", "Tajikistan", "38.861.034", "71.276.093", "Tajik or Tadjik");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TM", "Turkmenistan", "38.969.719", "59.556.278", "Turkmen or Turkoman");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TN", "Tunisia", "33.886.917", "9.537.499", "Tunisian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TR", "Turkey", "38.963.745", "35.243.322", "Turkish");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TT", "Trinidad and Tobago", "10.691.803", "-61.222.503", "Trinidadian and Tobagan/Tobagonian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TV", "Tuvalu", "-7.109.535", "17.764.933", "Tuvaluan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TW", "Taiwan", "2.369.781", "120.960.515", "Taiwanese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TZ", "Tanzania", "-6.369.028", "34.888.822", "Tanzanian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UA", "Ukraine", "48.379.433", "3.116.558", "Ukrainian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UG", "Uganda", "1.373.333", "32.290.275", "Ugandan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("US", "United States", "3.709.024", "-95.712.891", "American");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UY", "Uruguay", "-32.522.779", "-55.765.835", "Uruguayan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UZ", "Uzbekistan", "41.377.491", "64.585.262", "Uzbek");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VA", "Vatican City", "41.902.916", "12.453.389", "-");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VE", "Venezuela", "642.375", "-6.658.973", "Venezuelan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VN", "Vietnam", "14.058.324", "108.277.199", "Vietnamese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VU", "Vanuatu", "-15.376.706", "166.959.158", "Vanuatuan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("YE", "Yemen", "15.552.727", "48.516.388", "Yemeni");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ZA", "South Africa", "-30.559.482", "22.937.506", "South African");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ZM", "Zambia", "-13.133.897", "27.849.332", "Zambian");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ZW", "Zimbabwe", "-19.015.438", "29.154.857", "Zimbabwean");
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("country", "name", "latitude", "longitude", "nationality")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AD", "Andorra", "42.506285", "1.521801", "Andorran")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AE", "United Arab Emirates", "23.424076", "53.847818", "Emirates")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AF", "Afghanistan", "33.93911", "67.709953", "Afghan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AL", "Albania", "41.153332", "20.168331", "Albanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AM", "Armenia", "40.069099", "45.038189", "Armenian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AO", "Angola", "-11.202692", "17.873887", "Angolan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AR", "Argentina", "-38.416097", "-63.616672", "Argentinian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AT", "Austria", "47.516231", "14.550072", "Austrian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AU", "Australia", "-25.274398", "133.775136", "Australian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AZ", "Azerbaijan", "40.143105", "47.576927", "Azerbaijani")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BB", "Barbados", "13.193887", "-59.543198", "Barbadian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BD", "Bangladesh", "23.684994", "90.356331", "Bangladeshi")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BE", "Belgium", "50.503887", "4.469936", "Belgian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BG", "Bulgaria", "42.733883", "25.48583", "Bulgarian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BH", "Bahrain", "26.0667", "50.5577", "Bahraini")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BI", "Burundi", "-3.373056", "29.918886", "Burundian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BJ", "Benin", "9.30769", "2.315834", "Beninese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BN", "Brunei", "4.535277", "114.727669", "Bruneian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BO", "Bolivia", "-16.290154", "-63.588653", "Bolivian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BR", "Brazil", "-14.235004", "-51.92528", "Brazilian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BS", "Bahamas", "25.03428", "-77.39628", "Bahamian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BT", "Bhutan", "27.514162", "90.433601", "Bhutanese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BW", "Botswana", "-22.328474", "24.684866", "Botswanan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BY", "Belarus", "53.709807", "27.953389", "Belarusian or Belarusan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("BZ", "Belize", "17.189877", "-88.49765", "Belizean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CA", "Canada", "56.130366", "-106.346771", "Canadian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CH", "Switzerland", "46.818188", "8.2275119999999", "Swiss")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CL", "Chile", "-35.675147", "-71.542969", "Chilean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CM", "Cameroon", "7.369722", "12.354722", "Cameroonian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CN", "China", "35.86166", "104.195397", "Chinese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CO", "Colombia", "4.570868", "-74.297333", "Colombian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CR", "Costa Rica", "9.748917", "-83.753428", "Costa Rican")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CU", "Cuba", "21.521757", "-77.781167", "Cuban")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CY", "Cyprus", "35.126413", "33.429859", "Cypriot")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("CZ", "Czech Republic", "49.817492", "15.472962", "Czech")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DE", "Germany", "51.165691", "10.451526", "German")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DJ", "Djibouti", "11.825138", "42.590275", "Djiboutian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DK", "Denmark", "56.26392", "9.501785", "Danish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DM", "Dominica", "15.414999", "-61.370976", "Dominican")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DO", "Dominican Republic", "18.735693", "-70.162651", "Dominican")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("DZ", "Algeria", "28.033886", "1.659626", "Algerian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("EC", "Ecuador", "-1.831239", "-78.183406", "Ecuadorean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("EE", "Estonia", "58.595272", "25.013607", "Estonian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("EG", "Egypt", "26.820553", "30.802498", "Egyptian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ER", "Eritrea", "15.179384", "39.782334", "Eritrean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ES", "Spain", "40.463667", "-3.74922", "Spanish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ET", "Ethiopia", "9.145", "40.489673", "Ethiopian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("FI", "Finland", "61.92411", "25.748151", "Finnish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("FJ", "Fiji", "-17.713371", "178.065032", "Fijian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("FR", "France", "46.227638", "2.213749", "French")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GA", "Gabon", "-0.803689", "11.609444", "Gabonese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GB", "United Kingdom", "55.378051", "-3.435973", "British")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GD", "Grenada", "12.1165", "-61.679", "Grenadian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GE", "Georgia", "32.1656221", "-82.9000751", "Georgian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GH", "Ghana", "7.946527", "-1.023194", "Ghanaian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GN", "Guinea", "9.945587", "-9.696645", "Guinean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GR", "Greece", "39.074208", "21.824312", "Greek")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GT", "Guatemala", "15.783471", "-90.230759", "Guatemalan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("GY", "Guyana", "4.860416", "-58.93018", "Guyanese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HN", "Honduras", "15.199999", "-86.241905", "Honduran")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HR", "Croatia", "45.1", "15.2", "Croat or Croatian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HT", "Haiti", "18.971187", "-72.285215", "Haitian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("HU", "Hungary", "47.162494", "19.503304", "Hungarian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ID", "Indonesia", "-0.789275", "113.921327", "Indonesian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IE", "Ireland", "53.41291", "-8.24389", "Irish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IN", "India", "20.593684", "78.96288", "Indian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IQ", "Iraq", "33.223191", "43.679291", "Iraqi")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IR", "Iran", "32.427908", "53.688046", "Iranian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IS", "Iceland", "64.963051", "-19.020835", "Icelandic")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("IT", "Italy", "41.87194", "12.56738", "Italian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("JM", "Jamaica", "18.109581", "-77.297508", "Jamaican")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("JO", "Jordan", "30.585164", "36.238414", "Jordanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("JP", "Japan", "36.204824", "138.252924", "Japanese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KE", "Kenya", "-0.023559", "37.906193", "Kenyan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KH", "Cambodia", "12.565679", "104.990963", "Cambodian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KP", "North Korea", "40.339852", "127.510093", "North Korean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KR", "South Korea", "35.907757", "127.766922", "South Korean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KW", "Kuwait", "29.31166", "47.481766", "Kuwaiti")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("KZ", "Kazakhstan", "48.019573", "66.923684", "Kazakh")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LA", "Laos", "19.85627", "102.495496", "Laotian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LB", "Lebanon", "33.854721", "35.862285", "Lebanese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LI", "Liechtenstein", "47.166", "9.555373", "-")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LK", "Sri Lanka", "7.873054", "80.771797", "Sri Lankan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LR", "Liberia", "6.428055", "-9.429499", "Liberian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LT", "Lithuania", "55.169438", "23.881275", "Lithuanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LU", "Luxembourg", "49.815273", "6.129583", "-")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LV", "Latvia", "56.879635", "24.603189", "Latvian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("LY", "Libya", "26.3351", "17.228331", "Libyan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MA", "Morocco", "31.791702", "-7.09262", "Moroccan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MC", "Monaco", "43.7384176", "7.4246158", "Monégasque or Monacan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MD", "Moldova", "47.411631", "28.369885", "Moldovan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ME", "Montenegro", "42.708678", "19.37439", "Montenegrin")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MG", "Madagascar", "-18.766947", "46.869107", "Malagasy or Madagascan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ML", "Mali", "17.570692", "-3.996166", "Malian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MM", "Myanmar [Burma]", "21.913965", "95.956223", "Burmese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MM", "Myanmar [Burma]", "21.913965", "95.956223", "-")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MN", "Mongolia", "46.862496", "103.846656", "Mongolian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MR", "Mauritania", "21.00789", "-10.940835", "Mauritanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MT", "Malta", "35.937496", "14.375416", "Maltese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MU", "Mauritius", "-20.348404", "57.552152", "Mauritian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MV", "Maldives", "1.977247", "73.5361034", "Maldivian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MW", "Malawi", "-13.254308", "34.301525", "Malawian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MX", "Mexico", "23.634501", "-102.552784", "Mexican")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MY", "Malaysia", "4.210484", "101.975766", "Malaysian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MZ", "Mozambique", "-18.665695", "35.529562", "Mozambican")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NA", "Namibia", "-22.95764", "18.49041", "Namibian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NE", "Niger", "17.607789", "8.081666", "Nigerien")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NG", "Nigeria", "9.081999", "8.6752770000001", "Nigerian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NI", "Nicaragua", "12.865416", "-85.207229", "Nicaraguan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NL", "Netherlands", "52.132633", "5.291266", "Dutch")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NL", "Netherlands", "52.132633", "5.291266", "Dutch")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NO", "Norway", "60.472024", "8.468946", "Norwegian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NP", "Nepal", "28.394857", "84.124008", "Nepalese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NZ", "New Zealand", "-40.900557", "174.885971", "New Zealand")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("OM", "Oman", "21.512583", "55.923255", "Omani")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PA", "Panama", "8.537981", "-80.782127", "Panamanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PE", "Peru", "-9.189967", "-75.015152", "Peruvian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PG", "Papua New Guinea", "-6.314993", "143.95555", "Papua New Guinean orGuinean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PK", "Pakistan", "30.375321", "69.345116", "Pakistani")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PL", "Poland", "51.919438", "19.145136", "Polish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PT", "Portugal", "39.399872", "-8.224454", "Portuguese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("PY", "Paraguay", "-23.442503", "-58.443832", "Paraguayan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("QA", "Qatar", "25.354826", "51.183884", "Qatari")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RO", "Romania", "45.943161", "24.96676", "Romanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RS", "Serbia", "44.016521", "21.005859", "Serb or Serbian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RU", "Russia", "61.52401", "105.318756", "Russian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("RW", "Rwanda", "-1.940278", "29.873888", "Rwandan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SA", "Saudi Arabia", "23.885942", "45.079162", "Saudi Arabian or Saudi")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SB", "Solomon Islands", "-9.64571", "160.156194", "-")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SD", "Sudan", "12.862807", "30.217636", "Sudanese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SE", "Sweden", "60.128161", "18.643501", "Swedish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SG", "Singapore", "1.352083", "103.819836", "Singaporean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SI", "Slovenia", "46.151241", "14.995463", "Slovene or Slovenian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SK", "Slovakia", "48.669026", "19.699024", "Slovak")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SL", "Sierra Leone", "8.460555", "-11.779889", "Sierra Leonian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SN", "Senegal", "14.497401", "-14.452362", "Senegalese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SO", "Somalia", "5.152149", "46.199616", "Somali")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SR", "Suriname", "3.919305", "-56.027783", "Surinamese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SV", "El Salvador", "13.794185", "-88.89653", "Salvadorean")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SY", "Syria", "34.802075", "38.996815", "Syrian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("SZ", "Swaziland", "-26.522503", "31.465866", "Swazi")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TD", "Chad", "15.454166", "18.732207", "Chadian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TG", "Togo", "8.619543", "0.82478200000003", "Togolese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TH", "Thailand", "15.870032", "100.992541", "Thai")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TJ", "Tajikistan", "38.861034", "71.276093", "Tajik or Tadjik")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TM", "Turkmenistan", "38.969719", "59.556278", "Turkmen or Turkoman")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TN", "Tunisia", "33.886917", "9.537499", "Tunisian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TR", "Turkey", "38.963745", "35.243322", "Turkish")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TT", "Trinidad and Tobago", "10.691803", "-61.222503", "Trinidadian and Tobagan/Tobagonian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TV", "Tuvalu", "-7.4784418", "178.6799214", "Tuvaluan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TW", "Taiwan", "23.69781", "120.960515", "Taiwanese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("TZ", "Tanzania", "-6.369028", "34.888822", "Tanzanian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UA", "Ukraine", "48.379433", "31.16558", "Ukrainian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UG", "Uganda", "1.373333", "32.290275", "Ugandan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("US", "United States", "37.09024", "-95.712891", "American")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UY", "Uruguay", "-32.522779", "-55.765835", "Uruguayan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("UZ", "Uzbekistan", "41.377491", "64.585262", "Uzbek")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VA", "Vatican City", "41.902916", "12.453389", "-")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VE", "Venezuela", "6.42375", "-66.58973", "Venezuelan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VN", "Vietnam", "14.058324", "108.277199", "Vietnamese")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("VU", "Vanuatu", "-15.376706", "166.959158", "Vanuatuan")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("YE", "Yemen", "15.552727", "48.516388", "Yemeni")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ZA", "South Africa", "-30.559482", "22.937506", "South African")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ZM", "Zambia", "-13.133897", "27.849332", "Zambian")
+INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ZW", "Zimbabwe", "-19.015438", "29.154857", "Zimbabwean")
