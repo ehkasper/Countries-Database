@@ -7,7 +7,6 @@ CREATE TABLE `countries` (
 );
 
 
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("country", "name", "latitude", "longitude", "nationality");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AD", "Andorra", "42.506285", "1.521801", "Andorran");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AE", "United Arab Emirates", "23.424076", "53.847818", "Emirates");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AF", "Afghanistan", "33.93911", "67.709953", "Afghan");
