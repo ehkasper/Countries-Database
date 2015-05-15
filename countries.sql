@@ -6,7 +6,6 @@ CREATE TABLE `countries` (
 	nationality varchar(80)
 );
 
-
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AD", "Andorra", "42.506285", "1.521801", "Andorran");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AE", "United Arab Emirates", "23.424076", "53.847818", "Emirates");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("AF", "Afghanistan", "33.93911", "67.709953", "Afghan");
@@ -102,7 +101,6 @@ INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES (
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MG", "Madagascar", "-18.766947", "46.869107", "Malagasy or Madagascan");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("ML", "Mali", "17.570692", "-3.996166", "Malian");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MM", "Myanmar [Burma]", "21.913965", "95.956223", "Burmese");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MM", "Myanmar [Burma]", "21.913965", "95.956223", "-");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MN", "Mongolia", "46.862496", "103.846656", "Mongolian");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MR", "Mauritania", "21.00789", "-10.940835", "Mauritanian");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("MT", "Malta", "35.937496", "14.375416", "Maltese");
@@ -116,7 +114,6 @@ INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES (
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NE", "Niger", "17.607789", "8.081666", "Nigerien");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NG", "Nigeria", "9.081999", "8.6752770000001", "Nigerian");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NI", "Nicaragua", "12.865416", "-85.207229", "Nicaraguan");
-INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NL", "Netherlands", "52.132633", "5.291266", "Dutch");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NL", "Netherlands", "52.132633", "5.291266", "Dutch");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NO", "Norway", "60.472024", "8.468946", "Norwegian");
 INSERT INTO countries (country, name, latitude, longitude, nationality) VALUES ("NP", "Nepal", "28.394857", "84.124008", "Nepalese");
